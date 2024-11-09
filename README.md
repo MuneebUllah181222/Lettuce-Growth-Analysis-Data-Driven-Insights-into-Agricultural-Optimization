@@ -1,8 +1,8 @@
 # Lettuce-Growth-Analysis-Data-Driven-Insights-into-Agricultural-Optimization
-📄 ## Project Overview
+ ## 📄Project Overview
 This project explores how environmental conditions influence the growth of lettuce plants. Using data analytics and machine learning, it identifies the optimal conditions for growth phases, helping to enhance agricultural efficiency and sustainability. By modeling and visualizing factors like temperature, humidity, and soil quality, this analysis provides actionable insights for improving lettuce yields and reducing resource waste.
 
-📊 ## Dataset Description
+ ## 📊Dataset Description
 The dataset contains observations on various environmental conditions and their impact on lettuce growth over time.
 
 Features Included:
