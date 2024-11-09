@@ -41,11 +41,17 @@ Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
 Machine Learning Models: Random Forest, Decision Tree, Linear Regression
 ## 📈 Sample Visualizations
 Feature Importance Plot
+## 📈 Sample Visualizations
 
-Growth Phase Box Plot (Temperature)
+1. **Feature Importance Plot**
+   ![Feature Importance](images/Feature Importance - Gradient Boostin.png)
 
-Prediction vs. Actual Growth Days
+2. **Growth Phase Box Plot (Temperature)**
+   ![Growth Phase Temperature Box Plot](images/Box plot.png)
 
+3. **Prediction vs. Actual Growth Days**
+   ![Prediction vs. Actual](images/Gradient Boosting - predictions.png)
+   
 ## 💡 Future Work
 Expand to other crops and environmental datasets.
 Integrate climate forecasts to predict crop yield under future climate scenarios.
