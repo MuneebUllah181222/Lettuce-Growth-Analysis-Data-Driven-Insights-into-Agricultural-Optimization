@@ -46,7 +46,7 @@ Growth Phase Box Plot (Temperature)
 
 Prediction vs. Actual Growth Days
 
-##💡 Future Work
+## 💡 Future Work
 Expand to other crops and environmental datasets.
 Integrate climate forecasts to predict crop yield under future climate scenarios.
 Develop a predictive model for optimal harvest scheduling.
