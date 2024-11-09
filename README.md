@@ -31,7 +31,7 @@ Prediction vs. Actual Growth: Scatter plot demonstrating model accuracy in predi
 ## 🔑 Key Insights
 Environmental Sensitivity: Temperature, humidity, and TDS have the most significant impact on growth days.
 Optimized Conditions: Each growth phase (Early, Middle, Full Maturity) showed distinct environmental needs, providing guidance for tailored care at different stages.
-Model Success: With 85% prediction accuracy, the Random Forest model can reliably forecast growth time, supporting farmers in planning harvest cycles more effectively.
+Model Success: With 65% prediction accuracy, the Random Forest model can reliably forecast growth time, supporting farmers in planning harvest cycles more effectively.
 ## 🌍 Project Impact
 Understanding the specific environmental needs of lettuce plants can help farmers optimize resources and maximize yield. By providing data-driven insights, this analysis contributes to sustainable farming practices that reduce resource waste, improve crop quality, and adapt to changing climates. This project demonstrates the power of data analytics in agriculture and how machine learning can support food security and environmental sustainability.
 
