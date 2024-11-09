@@ -44,13 +44,13 @@ Feature Importance Plot
 ## 📈 Sample Visualizations
 
 1. **Feature Importance Plot**
-   ![Feature Importance](images/Feature Importance - Gradient Boostin.png)
+   ![Feature Importance](plots/Feature Importance - Gradient Boostin.png)
 
 2. **Growth Phase Box Plot (Temperature)**
-   ![Growth Phase Temperature Box Plot](images/Box plot.png)
+   ![Growth Phase Temperature Box Plot](plots/Box plot.png)
 
 3. **Prediction vs. Actual Growth Days**
-   ![Prediction vs. Actual](images/Gradient Boosting - predictions.png)
+   ![Prediction vs. Actual](plots/Gradient Boosting - predictions.png)
    
 ## 💡 Future Work
 Expand to other crops and environmental datasets.
