@@ -39,8 +39,7 @@ Understanding the specific environmental needs of lettuce plants can help farmer
 Languages: Python
 Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
 Machine Learning Models: Random Forest, Decision Tree, Linear Regression
-## 📈 Sample Visualizations
-Feature Importance Plot
+
 ## 📈 Sample Visualizations
 
 1. **Feature Importance Plot**
